@@ -20,6 +20,7 @@ This code requires the following:
 - Ogb>=1.3.6
 - DGL==0.4.3.post2 (Do not use the version which is newer than that!)
 #Running the experiments
+
 **Step 1: Anomaly Injection:**
 ```
 python inject_anomaly.py
